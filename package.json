@@ -1,0 +1,37 @@
+{
+  "name": "shyflix_client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/index.html",
+    "build": "parcel build ",
+    "start": "parcel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shayalieb/shyFlix_client.git"
+  },
+  "author": "Shaya Lieberman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shayalieb/shyFlix_client/issues"
+  },
+  "homepage": "https://github.com/shayalieb/shyFlix_client#readme",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "bootstrap": "^5.2.3",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.0",
+    "react-dom": "^18.2.0",
+    "react-router": "^6.4.5",
+    "react-router-dom": "^6.4.5",
+    "react-script": "^2.0.5",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.1"
+  }
+}
